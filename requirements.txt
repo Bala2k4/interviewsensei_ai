@@ -1,0 +1,6 @@
+streamlit==1.35.0              # Frontend framework
+google-generativeai==0.4.1     # For Gemini API (via Google AI Studio)
+google-auth==2.29.0            # Authentication for accessing Google's APIs
+protobuf==4.25.3               # Required for gRPC communication with Google APIs
+requests==2.31.0               # For general HTTP requests
+python-dotenv==1.0.1           # To manage API keys securely in .env
